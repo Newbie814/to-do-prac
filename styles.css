@@ -46,21 +46,21 @@ form {
   outline-color: rgb(87, 139, 211);
 }
 
-.to-dos {
+.tasks {
   background-color: #fff;
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
 
-.to-dos li {
+.tasks li {
   border-top: 1px solid #e5e5e5;
   cursor: pointer;
   font-size: 1.5rem;
   padding: 1rem 2rem;
 }
 
-.to-dos li.completed {
+.tasks li.completed {
   color: #b6b6b6;
   text-decoration: line-through;
 }
